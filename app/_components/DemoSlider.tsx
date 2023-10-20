@@ -55,13 +55,15 @@ const DemoSlider: React.FC<DemoSliderProps> = ({ data }) => {
                 <div className="relative z-10 h-full flex items-center justify-center">
                   <div className="text-center">
                     {tagline && (
-                      <p className=" text-3xl font-semibold text-white">
+                      <p className="text-md sm:text-xl lg:text-3xl font-semibold text-white">
                         {tagline}
                       </p>
                     )}
-                    <p className=" text-8xl font-bold text-white">{title}</p>
+                    <p className="text-3xl sm:text-6xl lg:text-8xl font-bold text-white">
+                      {title}
+                    </p>
                     {buttons.length > 0 ? (
-                      <p className=" bg-gray-800 inline-block px-9 py-2 rounded-full text-white mt-20">
+                      <p className=" bg-gray-800 inline-block px-9 py-2 rounded-full text-white mt-10 lg:mt-20">
                         <SliderButtons buttons={buttons} />
                       </p>
                     ) : null}

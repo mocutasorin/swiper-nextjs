@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "IMAGINE MORE",
-    "tagline": "IN THE HEART OF THE IMAGE",
+    "title": "ARE AWESOME",
+    "tagline": "NEXTJS 13 & SWIPER SLIDER",
     "image": "/image1.jpg",
     "buttons": [
       {
@@ -15,8 +15,8 @@
   },
   {
     "id": 2,
-    "title": "ROCK SOLID",
-    "tagline": "INNOVATIVE IN THE MOMENT",
+    "title": "GIVE IT A SHOOT",
+    "tagline": "IF YOU LIKE IT",
     "image": "/image2.jpg",
     "buttons": [
       {
