@@ -1,4 +1,4 @@
-## A Swiper Slider implementation with NextJS 13 example
+## A Swiper Slider implementation with NextJS 13 and TailwindCSS example
 
 This repo demonstrates how to implement a Swiper Slider in a Next.js 13 application. 
 Swiper is a popular and highly customizable touch-enabled slider library that provides a seamless experience for your users when navigating through content.
